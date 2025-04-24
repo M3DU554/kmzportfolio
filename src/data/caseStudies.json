@@ -1,0 +1,8 @@
+[
+  { "name": "Revit", "level": 90 },
+  { "name": "AutoCAD", "level": 85 },
+  { "name": "Rhino", "level": 80 },
+  { "name": "SketchUp", "level": 75 },
+  { "name": "Adobe Creative Suite", "level": 85 },
+  { "name": "Project Coordination", "level": 80 }
+]
